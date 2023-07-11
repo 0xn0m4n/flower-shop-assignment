@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* first-page-secton-start */
+.first-section{
+    height: 80vh;
+    /* border: 2px solid red; */
+    display: flex;
+    background-color: #E554731A;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+.photo{
+    width: 480px;
+    margin-bottom: -79px;
+    margin-left: 150px;
+    
+}
+.font-title{
+    font-size: 50px;
+    color: #272727;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.font-section{
+
+    
+}
+.main-paragraph{
+    font-size: 18px;
+    margin-top: 32px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+
+}
+.btn-primary{
+    padding: 20px 43px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #E55473;
+    border: none;
+    border-radius: 5px;
+    margin-top: 32px;
+}
+/* first-page-section-end */
+#font-title-2{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main-paragraph-2{
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.font-sec-for-featured-flower{
+    text-align: center;
+    margin-top: 140px;
+}
+.featured-photo-sec{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    box-sizing: border-box;
+    border-width: 400px;
+    
+    
+
+}
+.img-one{
+    height: 400px;
+    width: 400px;
+    background-color: #A7216226;
+    padding: 10px;
+    border-top-left-radius: 250px;
+    border-top-right-radius: 250px;
+    /* border: 15px solid #E55473; */
+     
+}
+.pngwing-01{
+    width: 70%;
+    height: 90%;
+    margin-top: 50px;
+    margin-left: 30px;
+    
+    
+}
+.pngwing-02{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.pngwing-03{
+    width: 70%;
+    height: 90%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.pngwing-caption{
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+    text-decoration: underline;
+}
+.pngwing-caption-2{
+    text-align: center;
+    align-items: center;
+    margin-top: 25px;
+    text-decoration: underline;
+}
+
+/* featured sec closed */
+.ads-section{
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #A7216226;
+    margin-top: 150px;
+    justify-content: center;
+}
+/* ads sec closed */
+.font-of-social{
+    align-items: center;
+    text-align: center;
+    margin-top: 85px;
+}
