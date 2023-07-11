@@ -157,16 +157,15 @@
 
 }
 .quota{
-    font-size: 30px;
+    font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
-    padding-top: 150px;
+    padding-top: 70px;
 
 }
 .author-img{
-    width: 6%;
-    border-radius: 50cqh;
-    margin-bottom: px;
+    width: 4%;
+    border-radius: 200px;
     justify-content: center;
     
 }
